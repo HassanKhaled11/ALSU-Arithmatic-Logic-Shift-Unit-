@@ -48,6 +48,7 @@ end
 
 
 initial begin
+direction =0;
 opcode = 0;
 bypass_A = 0;
 bypass_B = 0;
